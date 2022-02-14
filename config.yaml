@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://coccimore.cyou
 languageCode: en-us
 theme: stack
 paginate: 5
@@ -31,7 +31,7 @@ params:
 
     footer:
         since: 2022
-        customText:
+        customText: CocciMore
 
     dateFormat:
         published: Jan 02, 2006
