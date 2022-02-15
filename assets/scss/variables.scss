@@ -13,10 +13,10 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --main-top-padding: 50px;
     }
 
-    --body-background: #fcfcee;
+    --body-background: #f6fff6;
 
-    --accent-color: #FF9933;
-    --accent-color-darker: #009966;
+    --accent-color: #669933;
+    --accent-color-darker: #336633;
     --accent-color-text: #fff;
     --body-text-color: #bababa;
 
@@ -149,7 +149,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
 [data-scheme="light"] {
     --pre-text-color: #272822;
-    --pre-background-color: #FFFFCC;
+    --pre-background-color: #f6fff6;
     @import "partials/highlight/light.scss";
 }
 
