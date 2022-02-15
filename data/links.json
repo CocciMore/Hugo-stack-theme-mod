@@ -6,9 +6,21 @@
      "description": "我们会一起遇见鲸鱼吗？"
     },
 	{
-        "title": "友情链接2",
-        "website": "",
-        "image": "",
-     "description": ""
+        "title": "炼星记",
+        "website": "https://blog.rayuela.xyz/",
+        "image": "rayuela.png",
+     "description": "这是一位神秘的朋友"
+    },
+   {
+        "title": "奈卜拉的博客",
+        "website": "https://i.nebula.moe/",
+        "image": "nebula.png",
+     "description": "SCRIPTA PVELLAE MAGICAE"
+    },
+   {
+        "title": "InfectumSomnia",
+        "website": "https://dasrealeseiende.wordpress.com/blog/",
+        "image": "Roquentin.png",
+     "description": "Ecce vénio, Dómine, fácere voluntátem tuam."
     }
 ]
