@@ -18,7 +18,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --accent-color: #669933;
     --accent-color-darker: #336633;
     --accent-color-text: #fff;
-    --body-text-color: #bababa;
+    --body-text-color: #5c5c5c;
 
     --tag-border-radius: 4px;
 
@@ -28,8 +28,19 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --scrollbar-track: var(--body-background);
 
     // 设置选中字体的区域背景颜色
-    --selection-background: #f6fff6;
-    --selection-color: #336633;  
+ ::selection {
+        background: #f6fff6;
+        color: #336633;
+      }
+ ::-moz-selection {
+        background: #f6fff6;
+        color: #336633;
+      }
+      
+ ::-webkit-selection {
+        background: #f6fff6;
+        color: #336633;
+      }
 
     &[data-scheme="dark"] {
         --body-background: #303030;
