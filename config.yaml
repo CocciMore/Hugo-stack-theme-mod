@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: 
 
     footer:
         since: 2022
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍎
-        subtitle: 对我来说，要紧的是不仅仅成为一个人。
+        subtitle: 要紧的是不仅仅成为一个人
         avatar:
             enabled: true
             local: true
@@ -48,9 +48,9 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -152,7 +152,7 @@ params:
             site:
 
             # Available values: summary, summary_large_image
-            card: summary_large_image
+            card: ##summary_large_image
 
     defaultImage:
         opengraph:
