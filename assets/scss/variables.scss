@@ -27,6 +27,10 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --scrollbar-thumb: hsl(0, 0%, 85%);
     --scrollbar-track: var(--body-background);
 
+    // 设置选中字体的区域背景颜色
+    --selection-background: #f6fff6;
+    --selection-color: #336633;  
+
     &[data-scheme="dark"] {
         --body-background: #303030;
         --accent-color: #ecf0f1;
