@@ -1,10 +1,9 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: 关于苹果核的一些不可不知
+date: '2022-02-15'
 aliases:
   - about-us
-  - about-hugo
   - contact
 license: CC BY-NC-ND
 lastmod: '2020-10-09'
@@ -15,20 +14,16 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 关于苹果核聚变
 
-Hugo makes use of a variety of open source projects including:
+在通行的处理中，苹果核常被归入不可回收垃圾一类，于平庸的腐坏中度过短暂一生。
+但当苹果核们意外相撞，巨量的逃离日常的渴望猛然汇合，便会释放出空前的氰苷能量，能够让所有观赏这一奇景的人类思维奔逸，获得自然之手赐予的充沛灵感，从而培育出很好的脑洞植株。
+这一过程被称作：苹果核聚变。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## 关于苹果核
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+居东海，擅哀鸣，吸猫为食，喜不劳而获。
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## 关于一条冰箱门便利贴
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+室内施工进行中，请戴好安全帽，小心头顶。
