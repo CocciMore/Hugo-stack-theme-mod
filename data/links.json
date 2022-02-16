@@ -9,7 +9,7 @@
         "title": "炼星记",
         "website": "https://blog.rayuela.xyz/",
         "image": "rayuela.png",
-     "description": "这是一位神秘的朋友"
+     "description": "这是一位神秘的朋友。"
     },
    {
         "title": "奈卜拉的博客",
@@ -28,5 +28,23 @@
         "website": "https://blog.debula.ml/",
         "image": "debula.png",
      "description": "月亮一直跟着我走，它迷路了吗？"
-    }
+    },
+   {
+      "title": "周更摸鱼歌单",
+      "website": "https://inredbluegreen.xyz/playlists-archive.html",
+      "image": "tatsumi.gif",
+   "description": "而这个真的是一串歌单！"
+    },
+   {
+      "title": "なにこれ",
+      "website": "https://nemurenai.design.blog/",
+      "image": "wwumu.png",
+   "description": "下次更新是什么时候 ◐▽◑"
+    },
+   {
+      "title": "人生的意义在于摸鱼",
+      "website": "https://sanmeiji.github.io/",
+      "image": "sanmeiji.gif",
+   "description": "没有最好，只有更好"
+    },
 ]
