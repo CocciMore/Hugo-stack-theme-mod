@@ -13,9 +13,7 @@ categories:
 - 手指饼干
 ---
 
-**Go Tell It on the Mountain - James Baldwin**
-
-<br/>
+# **Go Tell It on the Mountain - James Baldwin**
 
 > he remembered only enough to be afraid every time her belly began to swell, knowing that each time the swelling began it would not end until she was taken from him, to come back with a stranger. Each time this happened she became a little more of a stranger herself.
 
@@ -95,10 +93,12 @@ John至今还是一个聆听者、观察者，他还没有加入其中，和某�
 
 <br/>
 
-🍎✍
+# 🍎✍
 
 后续部分越读越提不起劲，因此关于这本书的读书笔记也惫懒了不想再做……
 
-原本读到姨妈 *Florence* 出走的那一段眼前一亮，读者的期待和激情熊熊燃烧，结果再往后看，角色又进入了另一种家庭生活，以另一种状态 got stuck ……接下来她就在礼拜堂的祷告中痛哭流涕，质问上帝为何不公，为何她的母亲和兄弟得到眷顾，而她只能在小公寓里了此余生——看得人只想大叫：“所以呢，所以最后，还是一个信者得救、不信者得果报的故事吗！”几个角色的思想行动也都过于典型，很容易就能猜想到后续的发展和应有的转变，那还有什么意思啊！
+原本读到姨妈 *Florence* 出走的那一段眼前一亮，读者的期待和激情熊熊燃烧，结果再往后看，角色又进入了另一种家庭生活，以另一种状态 got stuck ，自身的野心期待和酒鬼丈夫的不成器，不知道该怎样吐槽这种搭配和安排……之后角色在礼拜堂的祷告中痛哭流涕，质问上帝为何不公，为何她的母亲和兄弟得到眷顾，而她只能在小公寓里了此余生——看得人只想大叫：“所以呢，最后还是一个信者得救、不信者得果报的故事吗！”
+
+另外几个角色的思想行动也都过于典型，很容易就能猜想到剧情走向。读不到新的观点和观察，那还有什么意思嘛！
 
 按读书会的安排，后续要转向 *Giovanni's Room* 或是 *James Baldwin* 较为出彩的几篇散文了，到时候再看是否有时间记录。
