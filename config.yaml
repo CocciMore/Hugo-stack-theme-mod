@@ -86,7 +86,7 @@ params:
         waline:
             serverURL: https://my-waline-9z38mv6dt-coccimore.vercel.app/
             lang: zh-CN
-            visitor: true
+            visitor: false
             avatar: 
             emoji:
                 - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji
