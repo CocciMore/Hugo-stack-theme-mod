@@ -87,11 +87,12 @@ params:
             serverURL: https://my-waline-9z38mv6dt-coccimore.vercel.app/
             lang: zh-CN
             visitor: false
-            avatar: 
+            avatar: 'monsterid'
             emoji:
                 - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji
                 - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus
                 - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq
+                - https://cdn.jsdelivr.net/gh/sowhereso/waline-blobcatemojis@1.2/blobs
             requiredMeta:
                 - name
                 - email
