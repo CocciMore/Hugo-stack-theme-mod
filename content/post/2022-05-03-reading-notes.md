@@ -35,7 +35,7 @@ categories:
 
 > John wondered at his panic, then wondered about the time; and then (while the yellow stain on the ceiling slowly transformed itself into a woman’s nakedness) he remembered that it was his fourteenth birthday and that he had sinned.
 
-啊看来Elisha是John理想自我的投射，前文Elisha和Ella Mae的交往向John揭示的也是少女的美丽。想到以前读的一个故事，少年和兄长、兄长的女朋友一同去游泳，在他们两人亲密的裸泳中，少年感到怅然若失的痛苦。
+感觉此处John首次意识到了性的存在。想到以前读的一个故事，少年和兄长、兄长的女朋友一同去游泳，在他们两人亲密的裸泳中，少年感到怅然若失的痛苦。
 
 <br/>
 
